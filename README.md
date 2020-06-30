@@ -1,0 +1,2 @@
+# LaptopLandingPage
+![](screenshots/responsivelandingpage.png)
